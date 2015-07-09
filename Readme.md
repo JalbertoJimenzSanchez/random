@@ -1,0 +1,1 @@
+App que genera un número aleatorio y devuelve resultado en función de su valor.
